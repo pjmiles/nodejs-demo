@@ -1,9 +1,9 @@
-reference/mongobd_delete.js
-reference/mongobd_findone.js
-reference/mongobd_insert_id.js
-reference/mongobd_insert_many.js
-reference/mongobd_insert.js
-reference/mongobd_query.js
-reference/mongobd_sort.js
-reference/mongobd_update.js
+reference/mongodb_delete.js
+reference/mongodb_findone.js
+reference/mongodb_insert_id.js
+reference/mongodb_insert_many.js
+reference/mongodb_insert.js
+reference/mongodb_query.js
+reference/mongodb_sort.js
+reference/mongodb_update.js
 
